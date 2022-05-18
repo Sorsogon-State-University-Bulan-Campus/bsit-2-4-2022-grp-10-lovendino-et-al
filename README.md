@@ -3,6 +3,7 @@
 
 Cosmology is a branch of astronomy that involves the origin and evolution of the universe, from the Big Bang to today and on into the future. According to NASA, the definition of cosmology is "the scientific study of the large scale properties of the universe as a whole."
 
+Cosmology aims to study the world being able to explain it in its totality, which is impossible from the fact that it is impossible doing experience of all phenomena in their entirety, but only of some of them. Therefore metaphysicians, when they try to explain the universe, they fall into contradictory rational procedures with themselves (antinomies).
 
 ## FAQ ❔
 
@@ -34,7 +35,7 @@ An example of cosmology is the study of the big bang theory. The scientific stud
 - [What is cosmology? Definition & history] (https://www.space.com/16042-cosmology.html)
 - [Philosophy of Cosmology] (https://plato.stanford.edu/entries/cosmology/)
 - [Cosmology] (https://www.yourdictionary.com/cosmology)
-
+- [What is the philosophical cosmology? Is there the possibility to fall into antinomies?] (https://www.researchgate.net/post/What_is_the_philosophical_cosmology_Is_there_the_possibility_to_fall_into_antinomies)
 ## Acknowledgements
 
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
