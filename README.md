@@ -17,8 +17,12 @@ What is the purpose of cosmology?
 
 Cosmology deals with the physical situation that is the context in the large for human existence--the universe has such a nature that our life is possible. This means that although it is a physical science, it is of particular importance in terms of its implications for human life.
 
+#### Question 3
+What is an ecample of cosmology?
 
-## Authors
+An example of cosmology is the study of the big bang theory. The scientific study of the origin, evolution, and structure of the universe. A philosophical, religious, or mythical explanation of the nature and structure of the universe.
+
+## Authors 😀
 
 - [Sheena Lovendino (@sheenalovendino)](https://github.com/sheenalovendino)
 - [Lyra Mercado (@MercadoLyra)](https://github.com/MercadoLyra)
@@ -29,7 +33,7 @@ Cosmology deals with the physical situation that is the context in the large for
 
 - [What is cosmology? Definition & history] (https://www.space.com/16042-cosmology.html)
 - [Philosophy of Cosmology] (https://plato.stanford.edu/entries/cosmology/)
-
+- [Cosmology] (https://www.yourdictionary.com/cosmology)
 
 ## Acknowledgements
 
