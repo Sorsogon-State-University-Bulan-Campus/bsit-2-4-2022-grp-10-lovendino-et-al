@@ -33,6 +33,10 @@ Cosmology deals with the physical situation that is the context in the large for
 
 An example of cosmology is the study of the big bang theory. The scientific study of the origin, evolution, and structure of the universe. A philosophical, religious, or mythical explanation of the nature and structure of the universe.
 
+#### Question 4
+### What does a cosmologists do?
+
+Cosmologists are interested in the formation, evolution and future of the universe and its constituents. Most objects we can see with telescopes are large or exist at extreme distances (e.g. planets, stars, galaxies, clusters of galaxies and even superclusters).
 ## Authors 😀
 
 - [Sheena Lovendino (@sheenalovendino)](https://github.com/sheenalovendino)
@@ -47,6 +51,7 @@ An example of cosmology is the study of the big bang theory. The scientific stud
 - [Cosmology] (https://www.yourdictionary.com/cosmology)
 - [What is the philosophical cosmology? Is there the possibility to fall into antinomies?] (https://www.researchgate.net/post/What_is_the_philosophical_cosmology_Is_there_the_possibility_to_fall_into_antinomies)
 - [Cosmology and Cosmogony] (https://cs.lmu.edu/~ray/notes/cosmologyandcosmogony/) 
+- [Cosmology] (https://astronomy.swin.edu.au/cosmos/c/cosmology?fbclid=IwAR2G9slrYdprVzQ8B8rawK48CmpTKEl1FacCK1dwoKyNaBQhN9pkOFKjxRw)
 ## Acknowledgements 👍
 
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
