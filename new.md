@@ -13,8 +13,9 @@ As cosmology involves the origin of the universe, we must know a little about th
 
 
 #### Question 2
+What is the purpose of cosmology?
 
-Answer 2
+Cosmology deals with the physical situation that is the context in the large for human existence--the universe has such a nature that our life is possible. This means that although it is a physical science, it is of particular importance in terms of its implications for human life.
 
 
 ## Authors
@@ -27,6 +28,7 @@ Answer 2
 ## References
 
 - [What is cosmology? Definition & history] (https://www.space.com/16042-cosmology.html)
+- [Philosophy of Cosmology] (https://plato.stanford.edu/entries/cosmology/)
 
 
 ## Acknowledgements
