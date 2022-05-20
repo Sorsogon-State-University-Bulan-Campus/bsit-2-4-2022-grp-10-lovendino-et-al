@@ -75,3 +75,8 @@ Cosmologists are interested in the formation, evolution and future of the univer
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [readme.so](https://readme.so/editor)
  - [Free Website Templates](https://freewebsitetemplates.com/)
+    
+     We also want to express our gratitude to Sir Anthony Gacis for his effort in teaching us so we can finish this project 🎇 
+## URL 📌
+
+https://sorsogon-state-university-bulan-campus.github.io/bsit-2-4-2022-grp-10-lovendino-et-al/
